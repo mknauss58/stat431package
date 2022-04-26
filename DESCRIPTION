@@ -2,8 +2,10 @@ Package: stat431package
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("Anmol", "Lakhotia", , "mrinal.lakhotiaa@gmail.com", role = c("aut", "cre"),
+    c(person("Anmol", "Lakhotia", , "mrinal.lakhotiaa@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Michael", "Knauss", , "mknauss@calpoly.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID")))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
